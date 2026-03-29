@@ -1,11 +1,9 @@
-# vec_math
+# vec-math
 
-vec_math - 2D/3D vector math library with dot, cross, normalize, and transforms.
+Vector math library (2D/3D/4D). Zero dependencies, single file, Python 3.8+.
 
 ## Usage
 
 ```bash
-python3 vec_math.py --test
+python3 vec_math.py --help
 ```
-
-Zero dependencies. Python 3.8+.
